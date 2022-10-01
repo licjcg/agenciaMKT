@@ -23,3 +23,10 @@ h1{
     text-align: center;
     text-decoration: underline;
 }
+h2{
+    text-align: center;
+    font-style: oblique;
+}
+h3 {
+    text-align: center;
+}
