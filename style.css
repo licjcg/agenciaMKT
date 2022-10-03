@@ -14,10 +14,6 @@ body{
     border: 1px solid #000;
     padding-block: 25px;    
 }
-.img{
-    width: 10%;
-    height: 10%;
-}
 h1{
     text-align: center;
     text-decoration: underline;
