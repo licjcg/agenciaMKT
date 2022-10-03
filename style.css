@@ -1,7 +1,7 @@
 .encabezado{
     width: 100%;
     text-align: center;
-    border: 1px solid #000;
+    border: 1px solid #517573;
     padding-block: 25px;
 }
 body{
@@ -11,8 +11,8 @@ body{
 .footer{
     text-align: center;
     width: 100%;
-    border: 1px solid #000;
-    padding-block: 25px;    
+    border: 1px solid #517573;
+    padding-block: 25px;
 }
 h1{
     text-align: center;
