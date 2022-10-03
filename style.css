@@ -13,12 +13,11 @@ body{
     text-align: center;
     width: 100%;
     border: 1px solid #000;
-    padding-block: 25px;
+    padding-block: 25px;    
 }
-img{
-    width: 15%;
-    height: 15%;
-
+.img{
+    width: 10%;
+    height: 10%;
 }
 h1{
     text-align: center;
